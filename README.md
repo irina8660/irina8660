@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi — I'm Irina 👋
 
-<!--
-**irina8660/irina8660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Frontend Developer with experience in HTML, CSS, JavaScript, TypeScript, and React (Redux).  
+Gained leadership experience in team projects, combining management with hands-on development.  
+Skilled in collaboration, knowledge sharing, and workflow optimization.  
+Strong soft skills developed through running my own business.  
+Passionate about learning and solving unconventional challenges.
 
-Here are some ideas to get you started:
+## Tech
+- HTML · CSS · JavaScript · TypeScript
+- React · Redux · Vite
+- Git · GitHub · Axios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: your.email@example.com
+- Telegram: @yourhandle
